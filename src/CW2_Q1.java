@@ -1,4 +1,3 @@
-package cw2_q1;
 import java.util.*;
 public class CW2_Q1 {
 
