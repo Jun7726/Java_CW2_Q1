@@ -57,7 +57,7 @@ public class CW2_Q1 {
             addItem = s.next().toLowerCase().charAt(0);
             while (addItem!='y' && addItem!='n') {
             System.out.println("Invalid input! Please enter Y for Yes or N for No: ");
-            memberStatus = s.next().toLowerCase().charAt(0);
+            addItem = s.next().toLowerCase().charAt(0);
             }
         }while (addItem == 'y'); //loop if user want to add more item
         
